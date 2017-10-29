@@ -66,6 +66,8 @@ print(add_numbers(3, 5)) #returns 8
 ### implement your own function 'in_list' to check if a particular value, x, is in a given list
 ### your function should take two inputs: x and list, and check if x is in the list
 ### hint: you can use a for loop and iterate through each value in list, and check if x is equal to that value
+### *NOTE: this problem is actually superfluous, as python has a built-in operation 'in' that does this operation
+### nonetheless, it is a good exercise to try and implement it yourself :)
 
 ############## CODE GOES HERE #################
 
