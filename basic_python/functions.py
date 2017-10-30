@@ -77,14 +77,19 @@ print(add_numbers(3, 5)) #returns 8
 ###############################################
 
 
+### a few test values to make sure the function works correctly
+
 ## should return True ##
 test_x1 = 1
 test_list1 = [1,2,3]
+#in_list(test_x1, test_list1)
 
 ## should return True ##
 test_x2 = 'hello'
 test_list2 = [2,4,5,'hello',9,'goodbye']
+#in_list(test_x2, test_list2)
 
 ## should return False ##
 text_x3 = 17
 test_list3 = [14,9,'tommy',1]
+#in_list(test_x3, test_list3)
